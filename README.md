@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there, I'm Kieran 🙋‍♂️
+I am currently a private GCE A-Level student with a strong affinity towards financial markets and technology. I am actively seeking internship opportunities within the finance and technology industries; I forward to working with a team and enhancing my skillset. Please feel free to reach out!
 
-<!--
-**kieran-lim/kieran-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+- Python       
+- C
+- SQLite
+- JavaScript
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+## Frameworks
+- Flask
+- Jinja
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
