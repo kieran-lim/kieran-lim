@@ -11,7 +11,12 @@ I am currently a private GCE A-Level student with a strong affinity towards fina
 
 ## Frameworks
 - Flask
-- Jinja
 - Bootstrap
+
+## Libraries
+- Jinja
+- SQLAlchemy
+- flask_sqlalchemy
+- fpdf2
 
 
