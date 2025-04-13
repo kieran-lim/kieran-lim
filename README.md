@@ -11,6 +11,7 @@ I am currently a private GCE A-Level student with a strong affinity towards fina
 
 ## Frameworks
 - Flask
+- Tailwind CSS
 - Bootstrap
 
 ## Libraries
