@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm interested in financial markets, economics, and technology.<br><br>I enjoy solving problems and programming is one of the many ways I get to do that :)</p>
+<p align="left">I'm interested in financial markets, economics, sales, and technology.<br><br>I enjoy solving problems and programming is one of the many ways I get to do that :)</p>
 
 ###
 
